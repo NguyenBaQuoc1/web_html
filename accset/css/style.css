@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.maudo {
+    color: red;
+}
+
+.clear {
+    clear: both;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td {
+    border: 1px solid #ccc;
+    padding: 4px;
+}
+
+.list-img li{
+   float: left;
+   padding-left: 5px;
+   
+}
+.img-shadow{
+    box-shadow: 4px !important;
+}
+
+#main {
+    background-color: rgba(202, 255, 236, 0.288);
+    height: auto;
+}
+
+.deptrai li{
+    padding-left: 24px;
+    float: left;
+    list-style-type: none;
+}
+input.input_check {
+    padding: 10px;
+    margin: 16px 31px;
+}
